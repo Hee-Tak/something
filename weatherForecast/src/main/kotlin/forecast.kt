@@ -1,5 +1,5 @@
 fun main(){
-/*
+1
     //val today: Int = (1..3).random()
     //1: 맑음 , 2: 흐림, 3: 비
     println("1: 맑음\t2: 흐림\t 3: 비")
@@ -22,7 +22,7 @@ fun main(){
 
     val days = readLine()?.toInt() ?: 0
     val array = DoubleArray(days)
-*/
+
 
     val todayWeather = "sunny"
     val daysLater = 3
