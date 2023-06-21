@@ -30,6 +30,7 @@ fun main(){
     val probability = calculateProbability(0, todayWeather, daysLater)
     println("확률: $probability")
 
+
 }
 
 
